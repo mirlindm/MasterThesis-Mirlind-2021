@@ -45,5 +45,5 @@ Pull requests are welcome.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact
-@: mirlindmurati777@gmail.com
+@: mirlindmurati777@gmail.com <br/>
 @: murati@ut.com
