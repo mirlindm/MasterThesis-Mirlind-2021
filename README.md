@@ -41,8 +41,6 @@ git clone https://github.com/mirlindm/MasterThesis-Mirlind-2021
 ## Contributing
 Pull requests are welcome! 😊 
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact  📞
 @: mirlindmurati777@gmail.com <br/>
