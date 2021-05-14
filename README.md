@@ -1,6 +1,6 @@
 # **MasterThesis-Mirlind-2021**
 
-# This repository is part of my Master's Thesis and contains all of the files and scripts that were used for the analysis purpose of the study.
+## This repository is part of my Master's Thesis and contains all of the files and scripts that were used for the analysis purpose of the study.
 
 - Student: **Mirlind Murati**
 - Supervisor: **Ezequiel Scott**
