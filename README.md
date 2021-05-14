@@ -19,7 +19,7 @@ Thesis can be accessed as a PDF: [Compliance Checking of Scrum](https://github.c
 - With a set of defined Scrum Rules (check thesis to see these rules) applied over the development data traces of certain open-source projects (more information over the projects can be found in the thesis file), I have conducted a study analysis to check the compliance of these development teams towards the Scrum framework as defined by the [Scrum Guide](https://www.scrum.org/resources/scrum-guide).
 
 
-## This GitHub repository contains the analysis part of this thesis. 
+## This GitHub repository contains the analysis part of this thesis 
 - All of the datasets included in my study can be found within the directory: **Datasets**.
 - All of the Python scripts and notebooks used to carry the different parts of the analysis, such as data cleaning and pre-processing, implementation of the pre-defined Scrum rules through the Python scripts, can be found in the directory: **Notebooks**.
 
