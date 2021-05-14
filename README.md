@@ -1,10 +1,10 @@
 # **MasterThesis-Mirlind-2021**
 
-## Student: **Mirlind Murati**
-## Supervisor: **Ezequiel Scott**
-## Institute of Computer Science - Software Engineering
-## University of Tartu & TalTech
-## Estonia
+- Student: **Mirlind Murati**
+- Supervisor: **Ezequiel Scott**
+- Institute of Computer Science - Software Engineering
+- University of Tartu & TalTech
+- Estonia
 
 
 This repository is part of my Master's Thesis in the field of Software Engineering, at the University of Tartu, Estonia.
