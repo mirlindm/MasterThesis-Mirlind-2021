@@ -11,7 +11,7 @@
 
 Thesis can be accessed as a PDF: [Compliance Checking of Scrum](https://github.com/mirlindm/MasterThesis-Mirlind-2021)
 
-## Thesis Objective
+## Thesis Objective 🎯
 
 - The main aim of this thesis is to check and verify how compliant is/was the development phase of certain open-source against the Scrum Agile framework. 
 - In simpler words, it aims to check whether the development teams were actually doing Scrum, and if yes, to what extent they were doing so.
@@ -39,11 +39,11 @@ git clone https://github.com/mirlindm/MasterThesis-Mirlind-2021
 
 
 ## Contributing
-Pull requests are welcome. 
+Pull requests are welcome! 😊 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Contact
+## Contact  📞
 @: mirlindmurati777@gmail.com <br/>
 @: murati@ut.com
