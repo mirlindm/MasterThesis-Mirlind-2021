@@ -6,7 +6,7 @@
 - Supervisor: **Ezequiel Scott**
 - Thesis Topic: **Compliance Checking of the Scrum Framework**
 - Institute of Computer Science - Software Engineering
-- University of Tartu & TalTech, Estonia
+- University of Tartu & TalTech, Estonia (2021)
 
 
 Thesis can be accessed as a PDF: [Compliance Checking of Scrum](https://github.com/mirlindm/MasterThesis-Mirlind-2021)
