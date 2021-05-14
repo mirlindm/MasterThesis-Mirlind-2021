@@ -1,13 +1,15 @@
 # **MasterThesis-Mirlind-2021**
 
+
+## This repository is part of my Master's Thesis.
+
 - Student: **Mirlind Murati**
 - Supervisor: **Ezequiel Scott**
+- Thesis Topic: **Compliance Checking of the Scrum Framework**
 - Institute of Computer Science - Software Engineering
 - University of Tartu & TalTech, Estonia
 
 
-This repository is part of my Master's Thesis in the field of Software Engineering, at the University of Tartu, Estonia.
-Thesis Topic: Compliance Checking of Scrum
 Thesis can be accesses as a PDF: [Compliance Checking of Scrum](https://github.com/mirlindm/MasterThesis-Mirlind-2021)
 
 ## Thesis Objective
