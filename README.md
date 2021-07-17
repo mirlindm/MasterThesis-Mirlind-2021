@@ -4,12 +4,12 @@
 
 - Student: **Mirlind Murati**
 - Supervisor(s): **Ezequiel Scott**
-- Thesis Topic: **Conformance Checking of ScrumPractices: A Study of 10 Open-SourceProjects**
+- Thesis Topic: **Conformance Checking of ScrumPractices: A Study of 10 Open-Source Projects**
 - Institute of Computer Science - Software Engineering
 - University of Tartu & TalTech, Estonia (August 2021)
 
 
-Thesis can be accessed as a PDF: [Conformance Checking of ScrumPractices: A Study of 10 Open-SourceProjects](https://github.com/mirlindm/MasterThesis-Mirlind-2021)
+Thesis can be accessed as a PDF: [Conformance Checking of ScrumPractices: A Study of 10 Open-Source Projects](https://github.com/mirlindm/MasterThesis-Mirlind-2021)
 
 ## Thesis Objective 🎯
 - The main aim of this thesis is to reveal the type of development data that is needed to perform conformance checking techniques and achieve satisfactory results. Furthermore, this study aims to check and verify how compliant has the development process of the ten open-source studied projects been against the Scrum Agile Framework. 
