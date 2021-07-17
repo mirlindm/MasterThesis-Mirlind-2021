@@ -1,4 +1,4 @@
-# **MasterThesis-Mirlind-2021 🎓**
+# **Master's Thesis - Mirlind, 2021 🎓**
 
 ### This repository is part of my Master's Thesis and contains all of the (external) files and scripts that were used for the analysis purpose of the study.
 
