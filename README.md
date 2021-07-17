@@ -12,7 +12,7 @@
 Thesis can be accessed as a PDF: [Conformance Checking of ScrumPractices: A Study of 10 Open-Source Projects](https://github.com/mirlindm/MasterThesis-Mirlind-2021)
 
 ## Thesis Objective 🎯
-- The main aim of this thesis is to reveal the type of development data that is needed to perform conformance checking techniques and achieve satisfactory results. Furthermore, this study aims to check and verify how compliant has the development process of the ten open-source studied projects been against the Scrum Agile Framework. 
+- The main aim of this thesis is to reveal the type of development data that is needed to perform conformance checking techniques against the Scrum framework and achieve satisfactory results. Furthermore, this study aims to check and verify how compliant has the development process of the ten open-source studied projects been against the Scrum Agile Framework. 
 - In simpler words, it aims to check whether the development teams were actually sticking to Scrum, and if yes, to what extent they were doing so.
 
 ## How 🤔? 
