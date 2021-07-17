@@ -3,7 +3,7 @@
 ### This repository is part of my Master's Thesis and contains all of the thesis file, and other external files and scripts that were used for the analysis purpose of the study.
 
 - Student: **Mirlind Murati**
-- Supervisor(s): **Ezequiel Scott**
+- Supervisor(s): **Ezequiel Scott** [https://ezequielscott.github.io/]
 - Thesis Topic: **Conformance Checking of ScrumPractices: A Study of 10 Open-Source Projects**
 - Institute of Computer Science - Software Engineering
 - University of Tartu & TalTech, Estonia (August 2021)
