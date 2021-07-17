@@ -24,7 +24,7 @@ Thesis can be accessed as a PDF: [Conformance Checking of ScrumPractices: A Stud
 - All of the Python scripts and notebooks used to carry the different parts of the analysis, such as data cleaning and pre-processing **(Notebook for cleaning and exporting projects data to own datasets.ipynb)**, implementation of the pre-defined Scrum rules through the Python scripts **(Scrum Rules Implementation.ipynb)**, can be found in the directory: **Notebooks - Coding Scripts**.
 
 ## Clarification
-- I have used the **Notebook for cleaning and exporting projects data to own datasets.ipynb** notebook as a general file to perform initial exploration of the data and to further separate the data of the different projects in separate datasets. 
+- I have used the **Notebook for cleaning and exporting projects data to own datasets.ipynb** notebook as a general notebook file to perform initial exploration of the data and to further separate the data of the different projects in individual datasets. 
 - Thereafter, for each dataset, I have created the Scrum rules implementation notebook, in order to carry out the analysis of each project in isolation.
 - The results are reported altogether in the **RQ2-RQ3 Results** folder.
 
@@ -34,7 +34,7 @@ Thesis can be accessed as a PDF: [Conformance Checking of ScrumPractices: A Stud
 git clone https://github.com/mirlindm/MasterThesis-Mirlind-2021
 ``` 
 - Upload the Python notebooks in your preferred computational notebook tool or app, such as Jupyter Notebook, Google Colab, etc.
-- For each notebook, upload the corresponding dataset (csv file) of the respective open-source project, such as Nexus, XD, etc.
+- For each notebook, upload the corresponding dataset **(Datasets (After Cleaning))** of the respective open-source project, such as Nexus, XD, etc.
 - Run all of the code cells within the notebook **Scrum Rules Implementation.ipynb**.
 - Check the outputs and verify the results. 🥳
 
