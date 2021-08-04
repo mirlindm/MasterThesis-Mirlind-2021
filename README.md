@@ -3,13 +3,10 @@
 ### This repository is part of my Master's Thesis and contains all of the thesis file, and other external files and scripts that were used for the analysis purpose of the study.
 
 - Student: **Mirlind Murati**
-- Supervisor(s): **[Ezequiel Scott](https://ezequielscott.github.io/)**
+- Supervisor(s): **[Ezequiel Scott](https://ezequielscott.github.io/), Fredrik P. Milani**
 - Thesis Topic: **Conformance Checking of ScrumPractices: A Study of 10 Open-Source Projects**
 - Institute of Computer Science - Software Engineering
 - University of Tartu & TalTech, Estonia (August 2021)
-
-
-Thesis can be accessed as a PDF: [Conformance Checking of ScrumPractices: A Study of 10 Open-Source Projects](https://github.com/mirlindm/MasterThesis-Mirlind-2021)
 
 ## Thesis Objective 🎯
 - The main aim of this thesis is to reveal the type of development data that is needed to perform conformance checking techniques against the Scrum framework and achieve satisfactory results. Furthermore, this study aims to check and verify how compliant has the development process of the ten open-source studied projects been against the Scrum Agile Framework. 
